@@ -1,1 +1,1 @@
-echo "JENKINS integrate to GIT SUCCESFULLY"
+echo "well done"
